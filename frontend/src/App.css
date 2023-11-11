@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Outfit:wght@200;400&family=Rubik&display=swap');
+
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-family: 'Rubik', sans-serif;
+}

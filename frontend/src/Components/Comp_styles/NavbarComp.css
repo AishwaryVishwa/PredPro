@@ -1,0 +1,11 @@
+.navbar
+{
+    display: flex;
+    padding: 1% 2%;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 34px;
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+.utility
+{
+
+}
+
+.utilities-list
+{
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    margin-top: 12%;
+}
+
+.utilities-list li{
+    display: flex;
+    gap: 3%;
+}
+.utility-child
+{
+    /* background-color: blue; */
+    display: flex;
+    height: 87vh;
+}
+
+
+
+.utility-panel
+{
+    width: 80%;
+    background-color: antiquewhite;
+
+}

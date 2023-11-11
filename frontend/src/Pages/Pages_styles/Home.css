@@ -1,0 +1,27 @@
+.home-child{
+    
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    height: 101vh;
+}
+.home-child-text h1
+{
+    font-size: 28px;
+}
+.home-child-text > .link
+{
+    background: #6c42cd;
+    padding: 11px;
+    border-radius: 12px;
+}
+.home-child-text
+{
+    padding: 6%;
+}
+.home-child-image
+{
+    padding: 3%;
+    
+    transform: rotateY(178deg) scale(0.6);
+}
